@@ -1,4 +1,6 @@
- 🔬 SmartPredict: Machine Learning for Early Diabetes Prediction  
+ 🔬 SmartPredict: A Comparative Exploration of Machine Learning for Early Diabetes
+Forecasting
+
 
 ## 📌 Overview  
 Early detection of **diabetes** can save lives by preventing severe complications like heart disease, kidney failure, and nerve damage.  

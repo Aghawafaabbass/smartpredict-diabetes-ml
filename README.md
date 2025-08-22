@@ -84,6 +84,33 @@ This project compares **five machine learning algorithms** on the **Pima Indians
 
 ---
 
+## ▶️ How to Run the Notebook  
+
+You can run the project in **Google Colab** (recommended) or locally on your system.  
+
+### 🔹 Option 1: Run in Google Colab  
+1. Open [Google Colab](https://colab.research.google.com/).  
+2. Click on **File > Upload Notebook**.  
+3. Upload the `.ipynb` file from this repo.  
+4. Run the cells one by one (press `Shift + Enter`).  
+
+### 🔹 Option 2: Run Locally  
+1. Clone this repository:  
+   bash
+   git clone https://github.com/YourUsername/your-repo-name.git
+   cd your-repo-name
+Install dependencies:
+
+bash
+
+pip install -r requirements.txt
+Launch Jupyter Notebook:
+
+bash
+
+jupyter notebook
+Open diabetes_analysis.ipynb and run the cells.
+
 ## 🛠️ Tech Stack  
 - **Language**: Python 3.9+  
 - **Environment**: Jupyter Notebook / Google Colab  
@@ -106,9 +133,6 @@ This project compares **five machine learning algorithms** on the **Pima Indians
 ├── README.md # Documentation
 └── LICENSE # MIT License
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -136,10 +160,6 @@ Edit
 
 ---
 
-## 📜 Citation  
-If you use this work, please cite:  
-
-> Agha Wafa Abbas, *SmartPredict: A Comparative Exploration of Machine Learning for Early Diabetes Forecasting*  
 
 ---
 
